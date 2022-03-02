@@ -1,0 +1,9 @@
+1） 全选功能， 取消全选
+2） 折线图（时间选择器）
+3） 怎么看到vue的源码  webpack internal
+4） 文件夹 具体用途（6个文件夹）build 构建相关
+			     mock 	项目mock 模拟数据
+			    node modules存放用包管理工具下载安装的包的文件夹
+			public  静态资源
+			src 源代码
+			test 测试
